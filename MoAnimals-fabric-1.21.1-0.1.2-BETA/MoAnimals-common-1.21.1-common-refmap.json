@@ -1,0 +1,34 @@
+{
+  "mappings": {
+    "net/spookly/moanimals/mixin/ComposterBlockMixin": {
+      "add": "method_17753(FLnet/minecraft/class_1935;)V"
+    },
+    "net/spookly/moanimals/mixin/PolarBearMixin": {
+      "registerGoals()V": "Lnet/minecraft/class_1456;method_5959()V"
+    },
+    "net/spookly/moanimals/mixin/SpawnPlacementsInvoker": {
+      "register": "method_20637(Lnet/minecraft/class_1299;Lnet/minecraft/class_9168;Lnet/minecraft/class_2902$class_2903;Lnet/minecraft/class_1317$class_4306;)V"
+    },
+    "net/spookly/moanimals/mixin/ThrownEggMixin": {
+      "Lnet/minecraft/world/entity/animal/Chicken;setAge(I)V": "Lnet/minecraft/class_1428;method_5614(I)V",
+      "onHit": "Lnet/minecraft/class_1681;method_7488(Lnet/minecraft/class_239;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/spookly/moanimals/mixin/ComposterBlockMixin": {
+        "add": "method_17753(FLnet/minecraft/class_1935;)V"
+      },
+      "net/spookly/moanimals/mixin/PolarBearMixin": {
+        "registerGoals()V": "Lnet/minecraft/class_1456;method_5959()V"
+      },
+      "net/spookly/moanimals/mixin/SpawnPlacementsInvoker": {
+        "register": "method_20637(Lnet/minecraft/class_1299;Lnet/minecraft/class_9168;Lnet/minecraft/class_2902$class_2903;Lnet/minecraft/class_1317$class_4306;)V"
+      },
+      "net/spookly/moanimals/mixin/ThrownEggMixin": {
+        "Lnet/minecraft/world/entity/animal/Chicken;setAge(I)V": "Lnet/minecraft/class_1428;method_5614(I)V",
+        "onHit": "Lnet/minecraft/class_1681;method_7488(Lnet/minecraft/class_239;)V"
+      }
+    }
+  }
+}

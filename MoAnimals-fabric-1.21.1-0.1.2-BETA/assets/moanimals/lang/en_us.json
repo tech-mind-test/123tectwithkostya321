@@ -1,0 +1,29 @@
+{
+  "itemGroup.moanimals": "MoAnimals",
+
+  "block.moanimals.duckweed": "Duckweed",
+  "block.moanimals.ostrich_egg": "Ostrich Egg",
+
+  "item.moanimals.duckweed": "Duckweed",
+  "item.moanimals.ostrich_egg": "Ostrich Egg",
+  "item.moanimals.breadcrumb": "Breadcrumbs",
+  "item.moanimals.duck_egg": "Duck Egg",
+  "item.moanimals.snail_bucket": "Bucket of Snail",
+  "item.moanimals.snail_spawn_egg": "Snail Spawn Egg",
+  "item.moanimals.duck_spawn_egg": "Duck Spawn Egg",
+  "item.moanimals.butterfly_spawn_egg": "Butterfly Spawn Egg",
+  "item.moanimals.crocodile_spawn_egg": "Crocodile Spawn Egg",
+  "item.moanimals.raccoon_spawn_egg": "Raccoon Spawn Egg",
+  "item.moanimals.penguin_spawn_egg": "Penguin Spawn Egg",
+  "item.moanimals.ostrich_spawn_egg": "Ostrich Spawn Egg",
+
+  "entity.moanimals.butterfly": "Butterfly",
+  "entity.moanimals.crocodile": "Crocodile",
+  "entity.moanimals.ostrich": "Ostrich",
+  "entity.moanimals.penguin": "Penguin",
+  "entity.moanimals.raccoon": "Raccoon",
+  "entity.moanimals.snail": "Snail",
+  "entity.moanimals.duck": "Duck",
+
+  "sounds.moanimals.duck_quack": "Duck quacking"
+}

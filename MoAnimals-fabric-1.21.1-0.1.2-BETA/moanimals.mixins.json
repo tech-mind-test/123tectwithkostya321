@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "net.spookly.moanimals.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "client": [],
+  "mixins": [
+    "ComposterBlockMixin",
+    "PolarBearMixin",
+    "SpawnPlacementsInvoker",
+    "ThrownEggMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "MoAnimals-common-1.21.1-common-refmap.json"
+}

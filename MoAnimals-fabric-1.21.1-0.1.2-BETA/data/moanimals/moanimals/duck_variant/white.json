@@ -1,0 +1,8 @@
+{
+  "wild_texture": "moanimals:entity/duck/duck_mallard",
+  "biomes": [
+    "minecraft:river",
+    "minecraft:plains",
+    "minecraft:forest"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "texture": "moanimals:entity/butterfly/butterfly_emperor",
+  "biomes": [
+    "minecraft:bamboo_jungle",
+    "minecraft:jungle",
+    "minecraft:sparse_jungle"
+  ]
+}
